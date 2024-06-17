@@ -12,3 +12,31 @@ body{
     text-align: center;
     padding: 20px;
 }
+
+h1{
+    color: whitesmoke;
+}
+
+.search-box{
+    margin-bottom: 30px;
+}
+
+.search-box input{
+    padding: 10px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.search-box button{
+    padding: 10px;
+    border: none;
+    background-color: #607994;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-box button:hover{
+    background-color: #99A1A6;
+}
