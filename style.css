@@ -14,6 +14,7 @@ body{
 }
 
 h1{
+    margin-top: 100px;;
     color: whitesmoke;
 }
 
@@ -39,4 +40,8 @@ h1{
 
 .search-box button:hover{
     background-color: #99A1A6;
+}
+
+.weather-info{
+    margin-top: 20px;
 }
